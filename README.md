@@ -1,2 +1,2 @@
-# Twitter Bot Using Python and AWS Lambda
+# Twitter Bot Using Python and AWS Lambda.
 
